@@ -1,7 +1,7 @@
 a=10
 b=22
 c=a+b
-print(a*b)
+print("a*b =",a*b)
 if(a==12):
     print("hai")
 elif(a==25):
