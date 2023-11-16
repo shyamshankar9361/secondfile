@@ -1,4 +1,4 @@
-a=10
+a=101
 b=22
 c=a+b
 print(a*b)
